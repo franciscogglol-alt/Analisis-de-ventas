@@ -8,7 +8,7 @@ Como analista de datos, el objetivo es ayudar al área comercial a entender:
 - Qué líneas de producto generan más ingresos.
 - Qué países y territorios son más rentables.
 - Cómo se comportan las ventas por año y por estado del pedido.
-- Cómo se distribuyen las ventas según el tamaño del trato (`DEALSIZE`).
+
 
 Con estos insights, el negocio puede tomar decisiones sobre qué productos impulsar, en qué mercados enfocarse y cómo priorizar clientes.
 
@@ -19,7 +19,7 @@ Algunas preguntas que se responden en el análisis:
 - ¿Cuáles son las 3 líneas de producto con mayores ventas totales?
 - ¿Qué países aportan más ingresos al año?
 - ¿Cómo cambia el volumen de ventas entre 2003, 2004 y 2005?
-- ¿Hay diferencias en ventas entre tratos pequeños, medianos y grandes (`DEALSIZE`)?
+
 
 ## Datos
 
@@ -28,7 +28,7 @@ Algunas preguntas que se responden en el análisis:
   - Número de orden, fecha, estado del pedido.
   - Línea de producto (`PRODUCTLINE`) y código de producto.
   - Ventas (`SALES`), cantidad, precio unitario.
-  - Cliente, ciudad, país, territorio (`TERRITORY`), tamaño del trato (`DEALSIZE`).[file:39]
+
 
 ## Proceso de análisis
 
