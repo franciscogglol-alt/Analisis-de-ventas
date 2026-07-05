@@ -1,4 +1,4 @@
-# Análisis de ventas – Caso de negocio
+# Análisis de ventas – Caso de negocio.
 
 Proyecto de análisis exploratorio de un dataset de ventas con pedidos realizados por clientes de distintos países y regiones a lo largo de varios años. El enfoque es mostrar el proceso y las habilidades de un analista de datos.
 
